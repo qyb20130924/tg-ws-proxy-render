@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# 环境变量文件
+.env
+.env.local
+
+# IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志
+*.log
